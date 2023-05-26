@@ -5,7 +5,7 @@
 1. First you have to add google map places api key in index.html file.The location of index.html file is ClientApp\public\index.html.  
 Here is how to activate Google Places Api and javascript Map Api and get the Key.  
 [https://developers.google.com/maps/documentation/places/web-service/get-api-key](https://developers.google.com/maps/documentation/places/web-service/get-api-key)  
-![Alt text](./frontend1.png)  
+![Alt text](frontend1.png)  
 2. To run the app locally you have to add 4 configuration strings in the env.js file. The location of the env.js file is ClientApp/src/env.js. You can leave these settings by default.  
 ![Alt text](./frontend2.png)  
 3. Open the code in Visual Studio Code IDE or CMD and follow below instructions to run the front end app.  
