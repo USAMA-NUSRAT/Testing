@@ -14,6 +14,6 @@ After configuration you have to install all the packages inside the ClientApp fo
 And then run a command:  
 3.2 `yarn start`  
 This will start the app and you can open the front end app.  
-![Alt text](./frontend3.png)  
+![Alt text](./frontend3.PNG)  
 ### Video Guide Below   
 [https://www.awesomescreenshot.com/video/17734593?key=c12e45bcfac3af1aab565f50f5a805cf](https://www.awesomescreenshot.com/video/17734593?key=c12e45bcfac3af1aab565f50f5a805cf)
